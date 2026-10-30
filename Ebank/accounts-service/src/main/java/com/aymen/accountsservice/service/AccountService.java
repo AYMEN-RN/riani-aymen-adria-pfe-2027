@@ -1,8 +1,8 @@
 package com.aymen.accountsservice.service;
 
-import com.aymen.accountservice.domaine.Account;
-import com.aymen.accountservice.domaine.AccountStatus;
-import com.aymen.accountservice.repository.AccountRepository;
+import com.aymen.accountsservice.domaine.Account;
+import com.aymen.accountsservice.domaine.AccountStatus;
+import com.aymen.accountsservice.repository.AccountRepository;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

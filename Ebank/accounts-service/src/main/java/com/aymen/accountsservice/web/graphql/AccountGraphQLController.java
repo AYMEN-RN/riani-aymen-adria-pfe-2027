@@ -1,7 +1,8 @@
 package com.aymen.accountsservice.web.graphql;
 
-import com.aymen.accountservice.domaine.Account;
-import com.aymen.accountservice.service.AccountService;
+
+import com.aymen.accountsservice.domaine.Account;
+import com.aymen.accountsservice.service.AccountService;
 import org.springframework.graphql.data.method.annotation.Argument;
 import org.springframework.graphql.data.method.annotation.MutationMapping;
 import org.springframework.graphql.data.method.annotation.QueryMapping;

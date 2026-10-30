@@ -1,6 +1,7 @@
 package com.aymen.accountsservice.repository;
 
-import com.aymen.accountservice.domaine.Account;
+
+import com.aymen.accountsservice.domaine.Account;
 import org.springframework.data.jpa.repository.JpaRepository;
 import java.util.UUID;
 
